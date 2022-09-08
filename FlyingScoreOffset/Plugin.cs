@@ -58,7 +58,7 @@ namespace FlyingScoreOffset
         [OnDisable]
         public void OnDisable()
         {
-            this.harmony.UnpatchAll(HARMONY_ID);
+            this.harmony.UnpatchSelf();
         }
     }
 }

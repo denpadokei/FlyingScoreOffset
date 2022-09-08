@@ -3,12 +3,11 @@
   "id": "FlyingScoreOffset",
   "name": "FlyingScoreOffset",
   "author": "",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "",
-  "gameVersion": "1.16.1",
+  "gameVersion": "1.20.0",
   "dependsOn": {
-    "BSIPA": "^4.0.0",
-    "SiraUtil": "^2.5.0"
+    "BSIPA": "^4.0.0"
   },
   "features": []
 }
